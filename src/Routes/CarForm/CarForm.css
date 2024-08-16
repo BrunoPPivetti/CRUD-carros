@@ -1,0 +1,17 @@
+.row{
+    text-align: center;
+}
+
+.auto{
+    text-align: center;
+    margin-left: 20px;
+}
+
+.btn{
+    background-color: dimgrey;
+    border-color: dimgrey ;
+}
+.btn:hover{
+    background-color: green;
+    border-color: green;
+}
